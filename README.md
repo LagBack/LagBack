@@ -1,4 +1,5 @@
 <h2>hey, i'm joão pedro 👋</h2>
+
 building full stack projects from scratch and shipping them to production
 
 ---
