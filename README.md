@@ -1,5 +1,4 @@
 <h2>hey, i'm joão pedro 👋</h2>
-
 cs student @ unitri · uberlândia, br  
 building full stack projects from scratch and shipping them to production
 
