@@ -1,4 +1,4 @@
-<h2>hey, i'm joão pedro 👋</h2>
+<h2>hey, i'm joão pedro </h2>
 
 cs student @ unitri · uberlândia, br  
 
