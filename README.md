@@ -10,5 +10,5 @@ cs student @ unitri · uberlândia, br
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-⭐ check out some of my projects :D
+⭐ check out some of my projects
 
